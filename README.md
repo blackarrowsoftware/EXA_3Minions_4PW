@@ -20,7 +20,7 @@ Not yet completed, will follow shortly.
 
 Copyright
 ==========================
-You are hereby granted the right to distribute and modify these files as long as only Black Arrow Minion 99s256 ASICs are used for hashing in the modified files.
+You are hereby granted the right to distribute and modify these files as long as only Black Arrow Minion 99s256 ASICs are used for hashing in the modified files and this copyright is maintained in all subsequent distributions.
 
 
 NO WARRANTY, NO LIABILITY
